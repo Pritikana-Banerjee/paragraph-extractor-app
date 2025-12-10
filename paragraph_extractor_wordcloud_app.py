@@ -12,7 +12,7 @@ nltk.download("punkt")
 nltk.download("stopwords")
 
 # Title
-st.title("🔍 PDF Paragraph Extractor + Word Cloud Generator")
+st.title("🔍 PDF Paragraph Extractor & Word Cloud Generator")
 st.write("Upload a PDF and enter multiple keywords to extract relevant paragraphs and generate a word cloud.")
 
 # Upload PDF
